@@ -1,2 +1,2 @@
-# JsSiteTemplate
-site template for JS projects
+# Be Kind Rewind
+A coding project for reversing a string
